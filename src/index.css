@@ -4,16 +4,15 @@
 
 @theme {
   --font-sans: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", ui-sans-serif, system-ui, sans-serif;
-  --font-display: Oxanium, "Noto Sans SC", sans-serif;
 }
 
 [data-mode="dark"] {
-  --color-kumo-neutral-1000: oklch(13% 0.02 262);
-  --color-kumo-neutral-975: oklch(16% 0.022 262);
-  --color-kumo-neutral-950: oklch(19% 0.024 262);
-  --color-kumo-neutral-925: oklch(22.5% 0.022 262);
-  --color-kumo-neutral-850: oklch(28% 0.02 262);
-  --color-kumo-neutral-800: oklch(33% 0.018 260);
+  --color-kumo-neutral-1000: oklch(12% 0.008 262);
+  --color-kumo-neutral-975: oklch(15% 0.01 262);
+  --color-kumo-neutral-950: oklch(18% 0.012 262);
+  --color-kumo-neutral-925: oklch(21% 0.012 262);
+  --color-kumo-neutral-850: oklch(27% 0.012 262);
+  --color-kumo-neutral-800: oklch(32% 0.012 260);
 }
 
 html,
@@ -27,28 +26,5 @@ body {
   background: var(--color-kumo-canvas);
   color: var(--color-kumo-default);
   font-family: var(--font-sans);
-  text-rendering: optimizeLegibility;
-}
-
-.font-display {
-  font-family: var(--font-display);
-}
-
-.hero-shade {
-  background:
-    linear-gradient(90deg, var(--color-kumo-canvas) 0%, color-mix(in oklab, var(--color-kumo-canvas) 78%, transparent) 42%, color-mix(in oklab, var(--color-kumo-canvas) 18%, transparent) 100%),
-    linear-gradient(180deg, color-mix(in oklab, var(--color-kumo-canvas) 30%, transparent) 0%, transparent 28%, var(--color-kumo-canvas) 100%);
-}
-
-#catalog,
-#hot,
-#latest,
-#submit {
-  scroll-margin-top: 5.5rem;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .hero-shade {
-    background: linear-gradient(180deg, transparent 40%, var(--color-kumo-canvas) 100%);
-  }
+  -webkit-font-smoothing: antialiased;
 }

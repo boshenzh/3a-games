@@ -22,7 +22,7 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
-          PAGES_BASE: /3a-games/
+          PAGES_BASE: /
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
