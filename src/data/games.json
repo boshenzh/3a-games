@@ -157,21 +157,22 @@
     "id": "saltline",
     "title": "Saltline",
     "titleEn": "Saltline",
-    "url": "https://jiage.app/play/jimao-3a",
+    "url": "https://saltline.games/play/index.html",
     "tags": [
       "FPS"
     ],
-    "description": "浏览器里的第一人称射击游戏。",
+    "description": "Felix Rieseberg 一次生成的浏览器 FPS。",
     "controls": [],
     "notes": "",
-    "credit": "jiage.app",
-    "creditDetail": "作品托管在 jiage.app，按域名标注。",
-    "creditUrl": "https://jiage.app/play/jimao-3a",
+    "credit": "Felix Rieseberg (@felixrieseberg)",
+    "creditDetail": "原作发布于 claude.ai artifact，作者推文见 x.com/felixrieseberg。",
+    "creditUrl": "https://x.com/felixrieseberg/status/2119925633564463609",
     "thumbnail": "thumbnails/saltline.jpg",
     "thumbnailKind": "screenshot",
     "hotRank": 7,
     "updatedAt": "2026-11-12T13:32:58Z",
-    "landscape": false
+    "landscape": false,
+    "sourceUrl": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"
   },
   {
     "id": "re-outbreak",

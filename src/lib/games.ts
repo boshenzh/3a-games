@@ -16,6 +16,8 @@ export type Game = {
   title: string;
   titleEn: string;
   url: string;
+  /** Optional link to the original/source page when it differs from the play URL. */
+  sourceUrl?: string;
   tags: string[];
   description: string;
   controls: string[];

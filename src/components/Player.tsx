@@ -50,7 +50,7 @@ export function Player({ game }: { game: Game }) {
             <span className="hidden sm:inline">全屏</span>
           </button>
         )}
-        <a href={game.url} target="_blank" rel="noopener noreferrer" className={control}>
+        <a href={game.sourceUrl ?? game.url} target="_blank" rel="noopener noreferrer" className={control}>
           <ArrowSquareOutIcon size={16} />
           <span className="hidden sm:inline">原站</span>
         </a>
