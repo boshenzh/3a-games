@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T13:22:55.331Z",
+  "checkedAt": "2026-11-12T13:33:10.676Z",
   "games": {
     "wukong-tiger": {
       "mode": "iframe",
@@ -48,6 +48,78 @@
       "frameAncestors": null,
       "status": 200,
       "finalUrl": "https://lf3-static.bytednsdoc.com/obj/eden-cn/nulojnulwlo/pelican-bike/index.html"
+    },
+    "saltline": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://jiage.app/play/jimao-3a"
+    },
+    "re-outbreak": {
+      "mode": "external",
+      "reason": "X-Frame-Options 为 DENY，且 CSP frame-ancestors（'none'）不允许本站嵌入。",
+      "xFrameOptions": "DENY",
+      "frameAncestors": "'none'",
+      "status": 200,
+      "finalUrl": "https://outbreakweb.com/"
+    },
+    "viben-ring": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://viben-ring.vercel.app/"
+    },
+    "minicraft": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://minecraft.kelvinzhang.ca/"
+    },
+    "cf-lobby": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://cf.hanyue.io/"
+    },
+    "voxel-rush": {
+      "mode": "external",
+      "reason": "CSP frame-ancestors 为 'self' https://x.com https://*.x.com https://twitter.com https://*.twitter.com https://web.telegram.org https://*.telegram.org，没有把本站包含进去。",
+      "xFrameOptions": null,
+      "frameAncestors": "'self' https://x.com https://*.x.com https://twitter.com https://*.twitter.com https://web.telegram.org https://*.telegram.org",
+      "status": 200,
+      "finalUrl": "https://play.voxelrush.app/"
+    },
+    "riposte": {
+      "mode": "external",
+      "reason": "CSP frame-ancestors 为 https://*.onestore.co.kr https://*.onestore.net，没有把本站包含进去。",
+      "xFrameOptions": null,
+      "frameAncestors": "https://*.onestore.co.kr https://*.onestore.net",
+      "status": 200,
+      "finalUrl": "https://www.playriposte.com/"
+    },
+    "dangerous-alone": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://camhenlin.github.io/Dangerous-Alone/play.html"
+    },
+    "astra-rift": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://thriving-pegasus-d9aaaa.netlify.app/"
     }
   }
 }

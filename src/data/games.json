@@ -4,7 +4,9 @@
     "title": "黑神话：悟空 · 虎先锋",
     "titleEn": "Black Myth: Wukong · Tiger Vanguard",
     "url": "https://www.anxiangsir.com/wukong-tiger-engine/",
-    "tags": ["动作"],
+    "tags": [
+      "动作"
+    ],
     "description": "网页版虎先锋战，用 three.js 与 WebGPU 跑在浏览器里。场景是第二回·卧虎寺。页面写明请横屏，并在帮助层列出棍势、法术和锁定。",
     "controls": [
       "WASD 移动，Shift 疾跑，Ctrl / Alt 慢走，空格闪身",
@@ -28,7 +30,9 @@
     "title": "英雄联盟·海克斯大乱斗",
     "titleEn": "Hextech ARAM",
     "url": "https://lol.hanyue.io/",
-    "tags": ["MOBA"],
+    "tags": [
+      "MOBA"
+    ],
     "description": "嚎哭深渊上的海克斯大乱斗：选英雄，在冰桥上推进，支持联机。技能和数值经过简化，不连接英雄联盟官方服务器。页面建议使用 Chrome。",
     "controls": [
       "右键移动；点在敌人身上则追击并攻击。触屏为点击移动",
@@ -52,7 +56,9 @@
     "title": "QQ飞车",
     "titleEn": "QQ Speed 3D",
     "url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/nulojnulwlo/qqfeiche3d/index.html",
-    "tags": ["赛车"],
+    "tags": [
+      "赛车"
+    ],
     "description": "浏览器里的 3D 竞速，同人还原 11 城、情迷爱琴海、法老金字塔和雪地大冒险。可以漂移集气、小喷、双喷、氮气，也有道具赛。",
     "controls": [
       "↑ 油门，↓ 刹车或倒车，← → 转向",
@@ -75,7 +81,9 @@
     "title": "Evensong",
     "titleEn": "One duel in a drowned cathedral",
     "url": "https://evensong-phi.vercel.app/",
-    "tags": ["动作"],
+    "tags": [
+      "动作"
+    ],
     "description": "浏览器里的类魂演示：在淹没的大教堂里完成一场决斗。页面简介是 “One duel in a drowned cathedral. A souls-like demo that plays in the browser.”",
     "controls": [
       "W A S D 移动，鼠标转动视角",
@@ -99,7 +107,9 @@
     "title": "穿越火线之运输船",
     "titleEn": "CrossFire · Transport Ship",
     "url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/nulojnulwlo/cf-transport-ship/transport-ship.html",
-    "tags": ["FPS"],
+    "tags": [
+      "FPS"
+    ],
     "description": "穿越火线经典地图「运输船」的网页 3D 复刻：潜伏者对保卫者，可以和机器人打团队竞技。船舱、集装箱和二楼管道都能架枪。",
     "controls": [
       "W A S D 移动，Shift 静步，空格跳，C 蹲",
@@ -123,7 +133,9 @@
     "title": "鹈鹕骑自行车",
     "titleEn": "Pelican on a Bike",
     "url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/nulojnulwlo/pelican-bike/index.html",
-    "tags": ["休闲"],
+    "tags": [
+      "休闲"
+    ],
     "description": "一只戴头盔、围红围巾的白鹈鹕，骑着复古自行车沿海岸追鱼。海浪、昼夜和音乐都是实时算出来的。页面写明没有外部贴图。",
     "controls": [
       "W / ↑ 加速，S / ↓ 刹车，A / D 左右变道抓鱼",
@@ -139,6 +151,186 @@
     "thumbnailKind": "screenshot",
     "hotRank": 6,
     "updatedAt": "2026-09-23T07:54:40Z",
+    "landscape": false
+  },
+  {
+    "id": "saltline",
+    "title": "Saltline",
+    "titleEn": "Saltline",
+    "url": "https://jiage.app/play/jimao-3a",
+    "tags": [
+      "FPS"
+    ],
+    "description": "浏览器里的第一人称射击游戏。",
+    "controls": [],
+    "notes": "",
+    "credit": "jiage.app",
+    "creditDetail": "作品托管在 jiage.app，按域名标注。",
+    "creditUrl": "https://jiage.app/play/jimao-3a",
+    "thumbnail": "thumbnails/saltline.jpg",
+    "thumbnailKind": "screenshot",
+    "hotRank": 7,
+    "updatedAt": "2026-11-12T13:32:58Z",
+    "landscape": false
+  },
+  {
+    "id": "re-outbreak",
+    "title": "生化危机 Outbreak",
+    "titleEn": "Resident Evil Outbreak",
+    "url": "https://outbreakweb.com/",
+    "tags": [
+      "恐怖"
+    ],
+    "description": "网页版生化危机 Outbreak，可单人或联机游玩。",
+    "controls": [],
+    "notes": "",
+    "credit": "outbreakweb.com",
+    "creditDetail": "按域名标注。",
+    "creditUrl": "https://outbreakweb.com/",
+    "thumbnail": "thumbnails/re-outbreak.jpg",
+    "thumbnailKind": "screenshot",
+    "hotRank": 8,
+    "updatedAt": "2026-11-12T13:32:58Z",
+    "landscape": false
+  },
+  {
+    "id": "viben-ring",
+    "title": "Viben Ring",
+    "titleEn": "Viben Ring",
+    "url": "https://viben-ring.vercel.app/",
+    "tags": [
+      "魂类"
+    ],
+    "description": "浏览器里的迷你类魂动作游戏。",
+    "controls": [],
+    "notes": "",
+    "credit": "viben-ring.vercel.app",
+    "creditDetail": "页面没有个人署名，按域名标注。",
+    "creditUrl": "https://viben-ring.vercel.app/",
+    "thumbnail": "thumbnails/viben-ring.jpg",
+    "thumbnailKind": "screenshot",
+    "hotRank": 9,
+    "updatedAt": "2026-11-12T13:32:58Z",
+    "landscape": false
+  },
+  {
+    "id": "minicraft",
+    "title": "Minicraft",
+    "titleEn": "Minicraft",
+    "url": "https://minecraft.kelvinzhang.ca/",
+    "tags": [
+      "沙盒"
+    ],
+    "description": "浏览器里的方块沙盒游戏。",
+    "controls": [],
+    "notes": "",
+    "credit": "Kelvin Zhang",
+    "creditDetail": "游戏菜单里写有 “by Kelvin Zhang”。",
+    "creditUrl": "https://minecraft.kelvinzhang.ca/",
+    "thumbnail": "thumbnails/minicraft.jpg",
+    "thumbnailKind": "screenshot",
+    "hotRank": 10,
+    "updatedAt": "2026-11-12T13:32:58Z",
+    "landscape": false
+  },
+  {
+    "id": "cf-lobby",
+    "title": "穿越火线·运输船联机大厅",
+    "titleEn": "BREACH · Transport Ship Lobby",
+    "url": "https://cf.hanyue.io/",
+    "tags": [
+      "FPS"
+    ],
+    "description": "运输船地图的联机大厅，可选多种模式匹配。",
+    "controls": [],
+    "notes": "",
+    "credit": "cf.hanyue.io",
+    "creditDetail": "按域名标注。",
+    "creditUrl": "https://cf.hanyue.io/",
+    "thumbnail": "thumbnails/cf-lobby.jpg",
+    "thumbnailKind": "screenshot",
+    "hotRank": 11,
+    "updatedAt": "2026-11-12T13:32:58Z",
+    "landscape": false
+  },
+  {
+    "id": "voxel-rush",
+    "title": "Voxel Rush",
+    "titleEn": "Voxel Rush",
+    "url": "https://play.voxelrush.app/",
+    "tags": [
+      "沙盒"
+    ],
+    "description": "方块风格的开放沙盒射击游戏。",
+    "controls": [],
+    "notes": "",
+    "credit": "voxelrush.app",
+    "creditDetail": "按域名标注。",
+    "creditUrl": "https://play.voxelrush.app/",
+    "thumbnail": "thumbnails/voxel-rush.jpg",
+    "thumbnailKind": "screenshot",
+    "hotRank": 12,
+    "updatedAt": "2026-11-12T13:32:58Z",
+    "landscape": false
+  },
+  {
+    "id": "riposte",
+    "title": "Riposte: Frontline",
+    "titleEn": "Riposte: Frontline",
+    "url": "https://www.playriposte.com/",
+    "tags": [
+      "FPS"
+    ],
+    "description": "免费的浏览器第一人称射击游戏。",
+    "controls": [],
+    "notes": "",
+    "credit": "playriposte.com",
+    "creditDetail": "按域名标注。",
+    "creditUrl": "https://www.playriposte.com/",
+    "thumbnail": "thumbnails/riposte.jpg",
+    "thumbnailKind": "screenshot",
+    "hotRank": 13,
+    "updatedAt": "2026-11-12T13:32:58Z",
+    "landscape": false
+  },
+  {
+    "id": "dangerous-alone",
+    "title": "Dangerous Alone",
+    "titleEn": "Dangerous Alone",
+    "url": "https://camhenlin.github.io/Dangerous-Alone/play.html",
+    "tags": [
+      "冒险"
+    ],
+    "description": "NES 塞尔达的多人合作版本，需自备游戏 ROM。",
+    "controls": [],
+    "notes": "",
+    "credit": "camhenlin",
+    "creditDetail": "代码在 github.com/camhenlin/Dangerous-Alone。",
+    "creditUrl": "https://github.com/camhenlin/Dangerous-Alone",
+    "thumbnail": "thumbnails/dangerous-alone.jpg",
+    "thumbnailKind": "screenshot",
+    "hotRank": 14,
+    "updatedAt": "2026-11-12T13:32:58Z",
+    "landscape": false
+  },
+  {
+    "id": "astra-rift",
+    "title": "ASTRA: Rift Racer",
+    "titleEn": "ASTRA: Rift Racer",
+    "url": "https://thriving-pegasus-d9aaaa.netlify.app/",
+    "tags": [
+      "赛车"
+    ],
+    "description": "浏览器里的反重力竞速游戏。",
+    "controls": [],
+    "notes": "",
+    "credit": "thriving-pegasus-d9aaaa.netlify.app",
+    "creditDetail": "页面没有个人署名，按域名标注。",
+    "creditUrl": "https://thriving-pegasus-d9aaaa.netlify.app/",
+    "thumbnail": "thumbnails/astra-rift.jpg",
+    "thumbnailKind": "screenshot",
+    "hotRank": 15,
+    "updatedAt": "2026-11-12T13:32:58Z",
     "landscape": false
   }
 ]
