@@ -21,6 +21,7 @@ function submitDevApi(): Plugin {
 }
 
 export default defineConfig({
+  base: process.env.PAGES_BASE || "/",
   plugins: [react(), tailwindcss(), submitDevApi()],
   resolve: {
     alias: {

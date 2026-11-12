@@ -1,5 +1,5 @@
 import { LinkProvider, Text } from "@cloudflare/kumo";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import { AppLink } from "@/components/AppLink.tsx";
 import { SiteHeader } from "@/components/SiteHeader.tsx";
 import { HomePage } from "@/pages/HomePage.tsx";
@@ -14,7 +14,7 @@ export default function App() {
     : "";
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <LinkProvider component={AppLink}>
         <AppState>
           <div className="flex min-h-svh flex-col">
@@ -40,6 +40,6 @@ export default function App() {
           </div>
         </AppState>
       </LinkProvider>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
