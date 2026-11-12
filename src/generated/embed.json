@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-11-12T10:01:58.086Z",
+  "games": {
+    "wukong-tiger": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://www.anxiangsir.com/wukong-tiger-engine/"
+    },
+    "lol-aram": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://lol.hanyue.io/"
+    },
+    "qq-speed": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://lf3-static.bytednsdoc.com/obj/eden-cn/nulojnulwlo/qqfeiche3d/index.html"
+    },
+    "evensong": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://evensong-phi.vercel.app/"
+    },
+    "cf-ship": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://lf3-static.bytednsdoc.com/obj/eden-cn/nulojnulwlo/cf-transport-ship/transport-ship.html"
+    },
+    "pelican-bike": {
+      "mode": "iframe",
+      "reason": "响应头没有 X-Frame-Options，CSP 也没有 frame-ancestors，可以放进 iframe。",
+      "xFrameOptions": null,
+      "frameAncestors": null,
+      "status": 200,
+      "finalUrl": "https://lf3-static.bytednsdoc.com/obj/eden-cn/nulojnulwlo/pelican-bike/index.html"
+    }
+  }
+}
